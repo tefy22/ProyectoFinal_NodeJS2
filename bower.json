@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-final",
+  "authors": [
+    "tefy22 <tifiana_1991@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-toastr": "^2.1.1",
+    "angular-animate": "^1.6.8",
+    "lodash": "^4.17.4",
+    "async": "^2.6.0"
+  }
+}
